@@ -13,7 +13,7 @@
 - [ ] #3 arithmetic expressions 🧮
 - [ ] #4 user input 🧮
 - [ ] #5 type conversion 💱
-- [x ] #6 const ⛔
+- [x] #6 const ⛔
 
 ---
   
