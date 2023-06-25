@@ -19,3 +19,9 @@ inputText.addEventListener("change", (e) => {
   name.innerText = `私は ${nameData} です.`;
   e.target.value = "";
 });
+
+let students = 20;
+students += 1;
+// 学生＝学生プラス１で２１になる
+// （＋、ー、＊、/）全部できる
+console.log(students);
