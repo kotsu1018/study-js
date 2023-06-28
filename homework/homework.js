@@ -19,7 +19,7 @@ while (index < array.length) {
 let index = 0;
 let sum = 0;
 
-while (index < 100) {
+while (index < 10) {
   index++;
   sum += index;
   console.log(sum);
