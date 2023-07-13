@@ -23,7 +23,7 @@ console.log(false);
 
 // if文はtrueかfalseのどちらかで答えがでる
 // 例）
-const X = 3;
+const x = 3;
 if (X) {
   alert("この文は正しいです");
 } else {

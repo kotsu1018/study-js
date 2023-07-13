@@ -6,3 +6,8 @@ while (x < 100) {
   x++;
   console.log(x);
 }
+
+let arrOnigiri = ["梅干", "ツナマヨ", "明太子"];
+for (let i = 0; i < arrOnigiri.length; i++) {
+  console.log(arrOnigiri[i]);
+}
