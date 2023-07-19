@@ -7,7 +7,7 @@ while (x < 100) {
   console.log(x);
 }
 
-let arrOnigiri = ["梅干", "ツナマヨ", "明太子"];
+let arrOnigiri = ["梅干", "ツナマヨ", "明太子"]; //これは配列b
 for (let i = 0; i < arrOnigiri.length; i++) {
   console.log(arrOnigiri[i]);
 }
